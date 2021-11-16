@@ -10,7 +10,7 @@
     <!-- End of Meta Including -->
 
     <!-- Title Start -->
-    <title>Destinasi | Travelinary</title>
+    <title>Destinasi | Travely</title>
     <!-- End of Title -->
 
     <!-- CSS and JavaScript Including File -->
